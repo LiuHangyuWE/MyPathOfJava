@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FunctionStatic/FunctionStatic.iml" filepath="$PROJECT_DIR$/FunctionStatic/FunctionStatic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Static.iml" filepath="$PROJECT_DIR$/Static.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extend/extend.iml" filepath="$PROJECT_DIR$/extend/extend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firstStatic/firstStatic.iml" filepath="$PROJECT_DIR$/firstStatic/firstStatic.iml" />
+    </modules>
+  </component>
+</project>
