@@ -1,0 +1,1 @@
+It is just a text example in order to practice my Java IO.
