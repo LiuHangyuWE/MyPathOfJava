@@ -10,7 +10,10 @@ public class MyIO1 {
         int byte1 = fis.read();
         System.out.println(byte1);
 
+        // read 顺序读取文件
+
         char byte2 = (char)fis.read();
         System.out.println(byte2);
+
     }
 }
