@@ -1,7 +1,6 @@
 package com.cuit.Myself.MyIO1;
 
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 
 public class MyIO1 {
@@ -14,6 +13,6 @@ public class MyIO1 {
 
         char byte2 = (char)fis.read();
         System.out.println(byte2);
-
+        fis.close();
     }
 }
